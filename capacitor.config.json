@@ -1,0 +1,13 @@
+{
+  "appId": "com.neoclip.ai",
+  "appName": "NeoClip AI",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "AdMob": {
+      "androidAppId": "ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy"
+    }
+  }
+}
